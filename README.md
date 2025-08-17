@@ -28,7 +28,7 @@
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/Abelalba-sketch" target="_blank">
+  <a href="https://github.com/TechExplorer677" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 
@@ -70,15 +70,15 @@
 
 <!-- Top Lenguajes -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abelalba-sketch&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechExplorer677&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <!-- Stats generales -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abelalba-sketch&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechExplorer677&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abelalba-sketch&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TechExplorer677h&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
