@@ -70,8 +70,9 @@
 
 <!-- Top Lenguajes -->
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechExplorer677&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechExplorer677&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages" />
 </p>
+
 
 <!-- Stats generales -->
 <p>
